@@ -1,0 +1,4 @@
+ultralytics==8.3.163
+opencv-python==4.12.0.88
+numpy==2.3.1
+Flask==3.1.1
